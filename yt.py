@@ -2,7 +2,7 @@ import youtube_dl
 
 def run():
 
-    video_url = input("Masukin link youtube : ")
+    video_url = input("Masukin Link YouTube : ")
 
     video_info = youtube_dl.YoutubeDL().extract_info(
 
