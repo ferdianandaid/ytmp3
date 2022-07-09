@@ -13,10 +13,10 @@ Berikut Adalah Perintah Untuk Kebutuhan (Requirement) Yang Harus Di Install.
 ```bash
 
   pkg upgrade && pkg update
-
   pkg install python
-
-  pip install youtube_dl
+  pip install youtube_dl 
+  pkg install git
+  git clone https://github.com/ferdianandaid/ytmp3
 
 ```
 
@@ -26,6 +26,7 @@ Cara Menggunakannya
 
 ```bash
 
+  cd ytmp3
   python yt.py
 
 ```
