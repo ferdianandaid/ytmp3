@@ -40,7 +40,7 @@ For support,
 
 Saweria
 
-https://saweria.io/ferdiananda
+https://saweria.co/ferdiananda
 
 
 
